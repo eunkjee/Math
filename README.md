@@ -11,6 +11,6 @@ you can call the functions defined in the project with the required parameters
 not yet
 
 # How to contribute
-email to 
+send an email to eunkyoung.jee@gmail.com first
 
 # License
